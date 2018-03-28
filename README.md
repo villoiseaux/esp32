@@ -1,2 +1,4 @@
-# esp32
-Dedicated tu test ESP32
+# Test ESP32 capabilities
+Dedicated to test ESP32
+
+* Test the multitasking
